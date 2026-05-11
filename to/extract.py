@@ -5,8 +5,8 @@ import sys
 # ========== 配置参数（请根据你的实际情况修改）==========
 TOOL_PATH = r"C:\Users\Boking Bow\Exe\PACKCRACK\UE4localizationsTool\UE4localizationsTool.exe"  # 文本提取工具的完整路径
 TARGET_DIR = r"F:\Reason\Origin\GO HELL GO 素材\gohellgo"                                       # 你的游戏资源文件夹（.uasset所在目录）
-OUTPUT_ROOT = r"F:\Reason\Origin\GO HELL GO 素材\gohellgo\Extract"                              # 所有提取结果统一放置的根目录
-LIST_FILE = r"F:\Reason\Origin\GO HELL GO 素材\gohellgo\filelist.txt"                           # 记录需要提取的.uasset清单（每行一个相对路径）
+OUTPUT_ROOT = r"F:\Reason\Origin\GO HELL GO 素材\to\Extract"                              # 所有提取结果统一放置的根目录
+LIST_FILE = r"F:\Reason\Origin\GO HELL GO 素材\to\filelist.txt"                           # 记录需要提取的.uasset清单（每行一个相对路径）
 # ========================================================
 
 def ensure_dir(path):

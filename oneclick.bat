@@ -1,3 +1,5 @@
+chcp 65001 >nul
+
 python ./to/ready.py
 python ./qu.py
 python ./list.py

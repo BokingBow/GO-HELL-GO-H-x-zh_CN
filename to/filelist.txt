@@ -26,3 +26,10 @@ Content\Anzu\BP\Common\BP_ConfigManager.uasset
 Content\Anzu\BP\Common\BPFL_ADVEvent.uasset
 Content\Anzu\BP\Battle\BP_CharacterBase.uasset
 Content\Anzu\BP\Battle\BP_BattleManager.uasset
+Content\Anzu\WBP\00_Config\WBP_Config_Main.uasset
+Content\Anzu\WBP\00_Config\WBP_Parts_Conf\WBP_Tab_02_Window.uasset
+Content\Anzu\WBP\00_Title\WBP_Title_Main.uasset
+Content\Anzu\WBP\Cmn_UI\Cmn_Header\WBP_Cmn_Title_L_Day.uasset
+Content\Anzu\WBP\00_Config\WBP_Parts_Conf\WBP_SAVE_Slot.uasset
+Content\Anzu\WBP\30_Comp_Main\WBP_Comp_Main.uasset
+Content\Anzu\WBP\24_Info_Dung\WBP_Info_Dung_Main.uasset
