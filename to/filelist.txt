@@ -33,3 +33,14 @@ Content\Anzu\WBP\Cmn_UI\Cmn_Header\WBP_Cmn_Title_L_Day.uasset
 Content\Anzu\WBP\00_Config\WBP_Parts_Conf\WBP_SAVE_Slot.uasset
 Content\Anzu\WBP\30_Comp_Main\WBP_Comp_Main.uasset
 Content\Anzu\WBP\24_Info_Dung\WBP_Info_Dung_Main.uasset
+Content\Anzu\WBP\Cmn_UI\WBP_Parts_Btn\WBP_Btn_Cmn_M_Cancel.uasset
+Content\Anzu\WBP\Cmn_UI\WBP_Parts_Btn\WBP_Btn_Cmn_M_Ok.uasset
+Content\Anzu\WBP\Cmn_UI\WBP_Parts_Btn\WBP_Btn_Cmn_M_Return.uasset
+Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Win_L_InfoDung.uasset
+Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Win_L_Early.uasset
+Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Cmn_Win_S.uasset
+Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Cmn_Win_M.uasset
+Content\Anzu\WBP\Cmn_UI\z_old\WBP_Button.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Comp_Party_Main.uasset
+Content\Anzu\WBP\21_Mng_Main\WBP_Mng_Main.uasset
+Content\Anzu\WBP\00_Config\WBP_Save.uasset
