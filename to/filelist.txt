@@ -47,3 +47,4 @@ Content\Anzu\WBP\00_Config\WBP_Save.uasset
 Content\Anzu\WBP\22_Hell\WBP_Hell_Main.uasset
 Content\Anzu\WBP\Cmn_UI\Cmn_Header\WBP_Filter.uasset
 Content\Anzu\DataTable\ADV\DT_AnzuScenarioMaster.uasset
+Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Win_L_Retry.uasset
