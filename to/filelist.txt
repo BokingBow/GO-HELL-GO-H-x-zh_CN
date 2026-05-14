@@ -49,3 +49,14 @@ Content\Anzu\WBP\Cmn_UI\Cmn_Header\WBP_Filter.uasset
 Content\Anzu\DataTable\ADV\DT_AnzuScenarioMaster.uasset
 Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Win_L_Retry.uasset
 Content\Anzu\WBP\51_54_Battle\WBP_Parts_Touch\WBP_Cmd_List.uasset
+Content\Anzu\WBP\22_Hell\WBP_Parts_Hell_Main\WBP_L2_Salary_Rank.uasset
+Content\Anzu\WBP\22_Hell\WBP_Parts_Hell_Main\WBP_R1_Title_Sub.uasset
+Content\Anzu\WBP\60_Shop\WBP_Parts_02_Item_Check\WBP_Item_Check.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Comp_Party_Sub.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_R_Sta\WBP_Sta_Name.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_04_1_HellArms.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_04_0_HellArms.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_02_0_HellSkill.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_03_0_HellPassive.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_02_1A_Skill.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_R_Sta\WBP_Sta_LLv.uasset
