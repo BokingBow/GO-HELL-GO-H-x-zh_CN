@@ -59,6 +59,7 @@ Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_04_0_HellArms.uasset
 Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_02_0_HellSkill.uasset
 Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_03_0_HellPassive.uasset
 Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Prof_02_1A_Skill.uasset
+Content\Anzu\WBP\31_Comp_Party\WBP_Parts_L_Prof\WBP_Hover_Window.uasset
 Content\Anzu\WBP\31_Comp_Party\WBP_Parts_R_Sta\WBP_Sta_LLv.uasset
 Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Win_SD_Eve.uasset
 Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_SD_Eve\WBP_SD_bk.uasset
@@ -66,3 +67,10 @@ Content\Anzu\WBP\60_Shop\WBP_Parts_Cmn_Slot\WBP_Item_Slot.uasset
 Content\Anzu\WBP\51_54_Battle\HUD_Btl_Slot\WBP_Pars_Btl_Slot\WBP_Btl_Item_Slot_1.uasset
 Content\Anzu\WBP\24_Info_Dung\WBP_Parts_Info_Dung\WBP_Info_Dung_C1_Title.uasset
 Content\Anzu\WBP\24_Info_Dung\WBP_Parts_Info_Dung\WBP_Info_Dung_Percent.uasset
+Content\Anzu\WBP\41_Dead_Party\WBP_Dead_Main.uasset
+Content\Anzu\WBP\41_Dead_Party\WBP_Parts_Dead_Status\WBP_Dead_L01_Prof_Title.uasset
+Content\Anzu\WBP\41_Dead_Party\WBP_Parts_Dead_Status\WBP_Dead_L02_Prof.uasset
+Content\Anzu\WBP\41_Dead_Party\WBP_Parts_Dead_Status\WBP_Dead_R01_Status.uasset
+Content\Anzu\WBP\41_Dead_Party\WBP_Parts_Dead_Status\WBP_Dead_R02_Color.uasset
+Content\Anzu\WBP\50_Dung\WBP_DungeonInternal.uasset
+Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Cmn_Win_M_Dung.uasset
