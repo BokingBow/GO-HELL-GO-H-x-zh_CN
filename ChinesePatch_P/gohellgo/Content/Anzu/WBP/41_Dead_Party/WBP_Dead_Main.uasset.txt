@@ -1,9 +1,9 @@
 FuncText0=
-FuncText0=亡者が地獄に落ちている間は処分できません
+FuncText0=　　　亡者坠入地狱期间无法进行处分　　　
 FuncText0=
-FuncText0=従業員は処分できません
+FuncText0=　　不允许处分职员　　
 FuncText0=
-FuncText0=従業員とは入れ替えられません
+FuncText0=　　　不允许与职员互换　　　
 FuncText0=
 FuncText0=None
 FuncText0=
