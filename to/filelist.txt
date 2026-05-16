@@ -75,3 +75,4 @@ Content\Anzu\WBP\41_Dead_Party\WBP_Parts_Dead_Status\WBP_Dead_R02_Color.uasset
 Content\Anzu\WBP\50_Dung\WBP_DungeonInternal.uasset
 Content\Anzu\WBP\Cmn_UI\Cmn_Window\WBP_Cmn_Win_M_Dung.uasset
 Content\Anzu\WBP\41_Dead_Party\WBP_Dead_Sub.uasset
+Content\Anzu\WBP\56_Battle_Result\WBP_Parts_Result_Win\04_Result_Sum_Star.uasset
