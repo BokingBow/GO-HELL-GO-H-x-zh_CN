@@ -4,7 +4,7 @@ ___《ゴーヘルゴー》___ 汉化补丁。
 __目前仍在测试中。很有可能出现报错。请尽可能注意存档，避免数据丢失。__  
 __~~已经确认暂不支持官方发布的升级用补丁，若强行加载将导致游戏崩溃。（可能）将在未来修复。~~__已支持，请查看 Release 说明。__
 
-请在 Release 中下载 `ChineseTest_P_1.pak` ，将其置于以下路径：  
+请在 Release 中下载 `ChineseTest_1_P.pak` ，将其置于以下路径：  
 `.\gohellgo\Content\Paks`  
 注意此路径下应有一个文件名为 `gohellgo-WindowsNoEditor.pak` 。
 
