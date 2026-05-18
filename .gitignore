@@ -1,6 +1,7 @@
 /Engine/
 /gohellgo/
 /Endnd/
+/gohellgo_1_4/
 *.uasset
 *.uexp
 /to/allin.bat
@@ -14,3 +15,7 @@
 !/ChineseTest_P/gohellgo/Content/Anzu/WBP/31_Comp_Party/WBP_Parts_L_Prof/WBP_Prof_03_1_Passive.uexp
 !/ChineseTest_P/gohellgo/Content/Anzu/BP/Common/BP_PartyLineManager.uasset
 !/ChineseTest_P/gohellgo/Content/Anzu/BP/Common/BP_PartyLineManager.uexp
+!/ChineseTest_P/gohellgo/Content/Anzu/BP/Management/BP_CompanyManager.uasset
+!/ChineseTest_P/gohellgo/Content/Anzu/BP/Management/BP_CompanyManager.uexp
+!/ChineseTest_P/gohellgo/Content/Anzu/BP/Management/BP_ManagementManager.uasset
+!/ChineseTest_P/gohellgo/Content/Anzu/BP/Management/BP_ManagementManager.uexp

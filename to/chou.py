@@ -2,13 +2,16 @@ import os
 import shutil
 
 # ========== 配置 ==========
-TXT_DIR = r"F:\Reason\Origin\GO HELL GO 素材\to\Endnd"   # 翻译后的 .txt 目录
-UASSET_DIR = r"F:\Reason\Origin\GO HELL GO 素材\gohellgo"        # 包含 .uasset/.uexp 的目录
+TXT_DIR = r"F:\Reason\Origin\GO HELL GO 素材\1_4\Extract"   # 翻译后的 .txt 目录
+UASSET_DIR = r"F:\Reason\Origin\GO HELL GO 素材\gohellgo_1_4"        # 包含 .uasset/.uexp 的目录
 OUTPUT_DIR = r"F:\Reason\Origin\GO HELL GO 素材\ChinesePatch_P\gohellgo"  # 打包用的临时文件夹
+OVERWRITE = False  # 是否覆盖已存在的文件，设为 True 则覆盖，False 则跳过
 # ==========================
 
 def should_skip(dst_path):
-    """检查目标文件是否已存在，如果存在则跳过"""
+    """检查目标文件是否已存在，如果存在则跳过（除非 OVERWRITE 为 True）"""
+    if OVERWRITE:
+        return False  # 覆盖模式：不跳过
     return os.path.exists(dst_path)
 
 def main():

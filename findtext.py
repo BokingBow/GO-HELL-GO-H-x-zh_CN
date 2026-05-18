@@ -1,8 +1,8 @@
 import os
 
 # ======= 配置区域 =======
-TARGET_TEXT = "地獄に落ちている間"  # 你要找的残留日文/文本
-SEARCH_DIR = r"./gohellgo/Content/Anzu"  # 换成你的子文件夹相对路径或绝对路径
+TARGET_TEXT = "日付を"  # 你要找的残留日文/文本
+SEARCH_DIR = r"./gohellgo_1_4/Content/Anzu"  # 换成你的子文件夹相对路径或绝对路径
 # =======================
 
 # 虚幻引擎中硬编码字符串常用的两种字节编码

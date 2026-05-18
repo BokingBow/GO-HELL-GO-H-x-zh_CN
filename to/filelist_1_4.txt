@@ -1,0 +1,2 @@
+Content\Anzu\WBP\00_Config\WBP_Parts_Conf\WBP_Tab_03_GameConf.uasset
+Plugins\VN_Plugin\Content\VN_Plus\BluePrint\Widget\BackLog\W_BackLog.uasset
